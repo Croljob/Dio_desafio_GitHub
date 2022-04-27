@@ -1,2 +1,3 @@
 # Dio_desafio_GitHub
-Trabalho de conclusão do Desafio Boot Camp Carrefour
+Trabalho de conclusão do Desafio BootCamp Carrefour
+O intúito deste trabalho é colocar em prática o uso do GitHub sincronizado com a máquina local.
